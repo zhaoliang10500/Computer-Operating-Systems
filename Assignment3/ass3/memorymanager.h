@@ -1,0 +1,3 @@
+int countTotalPages();
+
+int launcher();

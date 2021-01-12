@@ -1,0 +1,10 @@
+help
+set x lyon
+set y 20
+set lyon mcgill uoft
+print x
+print y
+print lyon
+print z
+run testfile.txt
+quit
