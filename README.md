@@ -1,7 +1,7 @@
-# ECSE427-Computer-Operating-Systems
+# Computer-Operating-Systems
 
-## Assignment 1: Building an OS Shell
+## OS Shell
 
-## Assignment 1: Building a Kernel
+## Kernel
 
-## Assignment 1: Building Virtual Memory for the Kernel
+## Virtual Memory for the Kernel
